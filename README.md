@@ -16,7 +16,7 @@ During this project, our goal was to configure some school servers. We started b
 
 ### Servers overview:
 
-| Server |    Model    | SERIAL number |      Processors       |                  RAM                  | Total RAM | LAN ports |
+| Server |    Model    | SERIAL number |      Processors       |                 RAMs                  | Total RAM | LAN ports |
 | ------ | :---------: | :-----------: | :-------------------: | :-----------------------------------: | :-------: | --------: |
-| `1`    | `DL360P G8` | `CZJ3110JJ4`  | `E5-2620` / `E5-2620` | `2Go -> 0` / `4Go -> 2` / `8Go -> 16` |  `132Go`  |       `8` |
+| `1`    | `DL360P G8` | `CZJ3110JJ4`  | `E5-2620` / `E5-2620` | `2Go -> 0` / `4Go -> 2` / `8Go -> 16` |  `136Go`  |       `8` |
 | `2`    | `DL360 G7`  | `CZJ1110GVM`  | `CS9CXY0` / `CS9CXY0` | `2Go -> 0` / `4Go -> 0` / `8Go -> 18` |  `144Go`  |       `8` |
